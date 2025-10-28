@@ -1,6 +1,6 @@
-# Hi there! 👋
+ Hi there! 👋
 
-🎓 ** Learning to code**
+🎓 * Learning to code*
 
 - 🌱 Currently learning: **C++, Python, HTML & CSS**
 - 📚 Focusing on my studies at the moment
